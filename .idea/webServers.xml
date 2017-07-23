@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5a258285-1aa3-4a0b-ac19-5b31d5a10e9f" name="KazooSoft LIVE" url="http://kazoosoft.eu">
+        <fileTransfer host="kazoosoft.eu" port="21" password="dfe2df9edfdddfc1df99dfd3df99df9bdf98df99df8b" username="rigel_kazoosoft">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
